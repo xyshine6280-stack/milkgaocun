@@ -1,0 +1,21 @@
+
+{
+  "short_name": "奶粉店",
+  "name": "BabyMilk Pro 奶粉商城",
+  "icons": [
+    {
+      "src": "https://picsum.photos/id/1070/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/id/1070/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0ea5e9",
+  "background_color": "#f8fafc"
+}

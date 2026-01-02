@@ -1,0 +1,8 @@
+
+{
+  "name": "BabyMilk Pro - Kids Nutrition Store",
+  "description": "A premium mobile-friendly store for high-quality baby milk powder, featuring AI-powered product image customization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
